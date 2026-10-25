@@ -1,0 +1,53 @@
+[
+  {
+    "label": "Shortest-lived",
+    "engine": 8,
+    "life_cycles": 150,
+    "warning_first_cycle": 118,
+    "warning_lead_cycles": 32,
+    "alert_first_cycle": 125,
+    "alert_lead_cycles": 25,
+    "false_alert_cycles": 0,
+    "missed_alert_cycles": 5,
+    "alert_toggles": 1,
+    "rul_error_last_cycle": 3.8702099323272705,
+    "mae_last_30_cycles": 3.6797645399647374,
+    "mae_healthy_phase": 3.4911236572265625,
+    "std_healthy_phase": 0.6049743294715881,
+    "std_last_30_cycles": 0.862536609172821
+  },
+  {
+    "label": "Median-lived",
+    "engine": 50,
+    "life_cycles": 198,
+    "warning_first_cycle": 136,
+    "warning_lead_cycles": 62,
+    "alert_first_cycle": 168,
+    "alert_lead_cycles": 30,
+    "false_alert_cycles": 0,
+    "missed_alert_cycles": 0,
+    "alert_toggles": 1,
+    "rul_error_last_cycle": 0.9676255583763123,
+    "mae_last_30_cycles": 1.553223035027904,
+    "mae_healthy_phase": 11.695802244421554,
+    "std_healthy_phase": 1.7221806049346924,
+    "std_last_30_cycles": 0.8584370613098145
+  },
+  {
+    "label": "Longest-lived",
+    "engine": 69,
+    "life_cycles": 362,
+    "warning_first_cycle": 298,
+    "warning_lead_cycles": 64,
+    "alert_first_cycle": 323,
+    "alert_lead_cycles": 39,
+    "false_alert_cycles": 9,
+    "missed_alert_cycles": 0,
+    "alert_toggles": 1,
+    "rul_error_last_cycle": 0.8159739375114441,
+    "mae_last_30_cycles": 5.582835883863511,
+    "mae_healthy_phase": 9.824947695188884,
+    "std_healthy_phase": 1.0584481954574585,
+    "std_last_30_cycles": 1.0416685342788696
+  }
+]
