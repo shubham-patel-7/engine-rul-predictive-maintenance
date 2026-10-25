@@ -4,6 +4,8 @@
 
 Tree-based baselines (Random Forest, XGBoost) vs. an LSTM ensemble, evaluated with the standard NASA protocol, plus an interactive **fleet-health dashboard** (Streamlit) with a tunable alert threshold.
 
+**[Live demo](https://engine-rul-demo.streamlit.app/)** (free hosting: if the app has been idle it takes about 30 seconds to wake up)
+
 ![Dashboard](results/figures/dashboard.png)
 
 ## Why this problem
